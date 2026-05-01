@@ -5,6 +5,8 @@ This is made possible by the "Automatically Add to iTunes" folder. Files added t
 This project uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [mid3v2](https://github.com/mutagen-io/mutagen)
 
 This script can use playlists, as well as chaptered videos.
+The main caveat being: the video needs pre-existing chapters for this process to work. 
+
 
 How to use:
 
