@@ -10,10 +10,10 @@ This script can use playlists, as well as chaptered videos. Chaptered videos are
 How to use:
 
 Make sure you have iTunes running under wine.
-
+```
 git clone https://github.com/Steven11q/iBootleg.git
 cd iBootleg
 chmod +x iBootleg.sh
 iBootleg.sh 'https://www.youtube.com/watch?v=84YxwrxRc5s&t=100s'
-
+```
 It should automatically upload the playlist as an album to your apple music library.
