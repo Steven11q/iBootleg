@@ -89,7 +89,7 @@ else
 fi
 
 
-#mv '/tmp/iBootleg/' '/home/hunt/Music/iTunes/iTunes Media/Automatically Add to iTunes/temp'
+mv '/tmp/iBootleg/' '/home/$USER/Music/iTunes/iTunes Media/Automatically Add to iTunes/temp'
 
 
 
