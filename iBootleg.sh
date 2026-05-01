@@ -67,7 +67,7 @@ else
 fi
 
 #Move files to the iTunes library
-mv '/tmp/iBootleg/'* ~'/Music/iTunes/iTunes Media/Automatically Add to iTunes/'
+mv '/tmp/iBootleg/'* "$HOME/Music/iTunes/iTunes Media/Automatically Add to iTunes/"
 
 
 
